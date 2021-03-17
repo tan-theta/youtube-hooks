@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(0, 0, 0, 0.9);
+  /* color: #fff; */
+}
+
+.search-bar {
+  /* box-shadow: 0 80px 5px #000000; */
+  background-color: #000 !important;
+}
+
+.search-bar .field label {
+  color: rgb(255, 255, 255) !important;
+  font-variant: small-caps;
+  font-size: 2em !important;
+  padding: 10px !important;
+  letter-spacing: 0.2em;
+}
+
+.search-bar .field input {
+  background-color: #222 !important;
+  color: rgb(255, 255, 255) !important;
+  font-variant: small-caps;
+  font-size: 1.5em !important;
+}
